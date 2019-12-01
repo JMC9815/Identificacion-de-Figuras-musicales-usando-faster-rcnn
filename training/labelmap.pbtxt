@@ -1,0 +1,61 @@
+item {
+    id: 1
+    name: 'CS'
+}
+item {
+    id: 2
+    name: 'CF'
+}
+item {
+    id: 3
+    name: 'N'
+}
+item {
+    id: 4
+    name: 'B'
+}
+item {
+    id: 5
+    name: 'C'
+}
+item {
+    id: 6
+    name: 'F'
+}
+item {
+    id: 7
+    name: 'SC'
+}
+item {
+    id: 8
+    name: 'SF'
+}
+item {
+    id: 9
+    name: 'SB'
+}
+item {
+    id: 10
+    name: 'SR'
+}
+item {
+    id: 11
+    name: 'P'
+}
+
+item {
+    id: 12
+    name: 'SN'
+}
+item {
+    id: 13
+    name: 'R'
+}
+item {
+    id: 14
+    name: 'Bem'
+}
+item {
+    id: 15
+    name: 'SOS'
+}
